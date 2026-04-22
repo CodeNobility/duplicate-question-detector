@@ -60,18 +60,3 @@ streamlit run app.py
 Prince Kumar Gupta
 
 ```
-
----
-
-# 🔥 Why this is best for you
-
-👉 Short ✅  
-👉 Clean ✅  
-👉 GitHub ready ✅  
-👉 Recruiter-friendly ✅  
-
----
-
-If you want:
-✅ I can add **badges + live demo button (looks more pro)**  
-✅ Or help you deploy and add link 🚀
